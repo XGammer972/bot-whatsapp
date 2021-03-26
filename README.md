@@ -10,7 +10,7 @@
 
 #> pkg install imagemagick -y
 
-#> git clone https://github.com/Nurutomo/wabot-aq
+#> git clone https://github.com/XGammer972/bot-whatsapp
 
 #> cd wabot-aq
 
